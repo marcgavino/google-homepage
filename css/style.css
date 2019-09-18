@@ -12,7 +12,8 @@ body {
     font-family: Arial, sans-serif;
     font-size: 13px;
 }
-.main {
+
+main {
     width: 600px;
     height: 100%;
     margin: 0 auto;
